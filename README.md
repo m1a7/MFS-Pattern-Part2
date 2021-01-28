@@ -3,10 +3,10 @@
 Все преимущества `MFS` в полной мере раскрываются при работе с ячейками таблицы.<br><br>Цель `MFS`: рационально распределять обязанности между категориями ячейки, чтобы обеспечить  максимальную контролируемость всех процессов и плавность в **60 FPS** при прокрутке таблицы на любых устройствах.
 
 <p align="center">
-  <img src="Documenation/CarbonScreen/img1.jpg">
+  <img src="Documenation/CarbonScreen/img1.png">
 </p>
 
-[Фото: View Controllers for iOS & Swift Explained learnappmaking.com](https://learnappmaking.com/view-controller-uiviewcontroller-ios-swift/)
+
 
 <br><br>
 
